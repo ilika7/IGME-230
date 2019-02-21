@@ -1,4 +1,4 @@
-<h1>Pet your Pet</h1>
+<h1><i>Pet your Pet</i></h1>
 
 <h2>I. High Concept</h2>
 <p>A relaxing pet game where you click on your pet to grow it in new and exciting ways!</p>
