@@ -23,7 +23,9 @@ Teaching the game/New user experience aka "Onboarding"
 Player learning
 Tapping different parts of the pet leads to different ways to evolve the pet.</p>
 <h2>VII. Screenshots</h2>
-<img src="/IGME-230/1.jpg" alt="box on street" title="hi"/>
+<img src="https://github.com/ilika7/IGME-230/blob/master/1.jpg" alt="box on street" width="300px" height="200px"/>
+<img src="https://github.com/ilika7/IGME-230/blob/master/2.jpg" alt="inside house" width="300px" height="200px"/>
+<img src="https://github.com/ilika7/IGME-230/blob/master/3.jpg" alt="cat" width="300px" height="200px"/>
 <h2>VIII. About the developer(s)</h2>
 
 <p>I am ilika, a 3rd year NMID student at RIT. I love making new things, reading, and art. I know HTML, CSS, Python, Javascript, C#, Photoshop, and Illustrator.</p>
