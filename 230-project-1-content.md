@@ -23,9 +23,9 @@ Teaching the game/New user experience aka "Onboarding"
 Player learning
 Tapping different parts of the pet leads to different ways to evolve the pet.</p>
 <h2>VII. Screenshots</h2>
-<p>![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")</p>
-<p>![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")</p>
-<p>![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 3")</p>
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 3")
 
 <h2>VIII. About the developer(s)</h2>
 
