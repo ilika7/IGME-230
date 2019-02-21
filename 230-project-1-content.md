@@ -23,10 +23,7 @@ Teaching the game/New user experience aka "Onboarding"
 Player learning
 Tapping different parts of the pet leads to different ways to evolve the pet.</p>
 <h2>VII. Screenshots</h2>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 3")
-
+![alt text](IGME 230 "Logo Title Text 1")
 <h2>VIII. About the developer(s)</h2>
 
 <p>I am ilika, a 3rd year NMID student at RIT. I love making new things, reading, and art. I know HTML, CSS, Python, Javascript, C#, Photoshop, and Illustrator.</p>
